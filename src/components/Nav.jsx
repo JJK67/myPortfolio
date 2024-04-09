@@ -1,3 +1,5 @@
+import './styles/global.css'
+
 function Nav() {
     return (
       <div className="nav">
