@@ -1,10 +1,13 @@
-import {Nav} from '@components';
+import { Nav, Footer } from "@components";
 
 function App() {
   return (
     <>
       <Nav/>
-      <h1>Welkom!</h1>
+      <main>
+        <h1>Welkom!</h1>
+      </main>
+      <Footer/>
     </>
   );
 }

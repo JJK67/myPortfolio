@@ -1,17 +1,19 @@
-.nav {
+.footer {
     display: flex;
     justify-content: space-evenly;
-    background-color: #4D7EA8;
+    background-color: #8B9556;
+
 }
 
-.nav-item {
-    padding: 30px 0px;
+.footer-item {
+    padding: 60px 0px;
     color: #272932;
-    font-weight: 700;
+    font-weight: 300;
     font-size: 20px;
 }
 
-.nav-item:hover {
+.footer-item:hover {
     color: #F5FBEF;
     cursor: pointer;
+
 }

@@ -1,12 +1,12 @@
-import './styles/global.css'
+import '../styles/components/nav.css'
 
 function Nav() {
     return (
-      <div className="nav">
-        <div>Home</div>
-        <div>Projects</div>
-        <div>About</div>
-      </div>
+      <nav className="nav">
+        <div className="nav-item">Home</div>
+        <div className="nav-item">Projects</div>
+        <div className="nav-item">Contact</div>
+      </nav>
     );
   }
   
