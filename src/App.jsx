@@ -5,7 +5,7 @@ function App() {
     <>
       <Nav/>
       <main>
-        <h1>Welkom!</h1>
+        <h1>Jason Klomp!</h1>
       </main>
       <Footer/>
     </>

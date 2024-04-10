@@ -1,17 +1,17 @@
 .nav {
     display: flex;
     justify-content: space-evenly;
-    background-color: #4D7EA8;
+    background-color: var(--secondarycolor);
 }
 
 .nav-item {
     padding: 30px 0px;
-    color: #272932;
-    font-weight: 700;
+    color: var(tertiarycolor);
+    font-weight: 300;
     font-size: 20px;
 }
 
 .nav-item:hover {
-    color: #F5FBEF;
+    color: var(--primarycolor);
     cursor: pointer;
 }
