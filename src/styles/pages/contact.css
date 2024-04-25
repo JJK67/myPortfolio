@@ -1,0 +1,11 @@
+.contactMain {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.contactMain a {
+    text-decoration: none;
+    color: var(--secondarycolor);
+}
