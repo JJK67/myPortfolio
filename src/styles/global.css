@@ -37,3 +37,7 @@ main {
     background-color: transparent;
     font-size: 50px;
 }
+
+.link {
+    text-decoration: none;
+}
