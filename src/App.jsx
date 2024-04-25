@@ -1,13 +1,11 @@
 import { Nav, Footer } from "@components";
+import { Home} from "@pages";
 
 function App() {
   return (
     <>
       <Nav/>
-      <main>
-        <h1>Jason Klomp!</h1>
-      </main>
-      <Footer/>
+      <Home/>
     </>
   );
 }
